@@ -3,8 +3,6 @@ layout: default
 title: AIDevMe
 ---
 
-# AIDevMe
-
 Power Platform, Agentic AI & Modern Development — by Zsolt Zombik.
 
 Main site: [aidevme.com](https://aidevme.com)
